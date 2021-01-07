@@ -1,1 +1,5 @@
 second file
+日本語を追加
+
+Hi,
+nice to meet you!
